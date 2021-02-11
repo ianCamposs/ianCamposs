@@ -7,3 +7,4 @@ I'm a master's student at the Federal University of Pará, in computer science w
 - 👯 I’m looking to collaborate on open source projects with Node.js and Back End' Tools;
 - 📫 How to reach me: www.linkedin.com/in/iancampos244824192
 
+:rocket: Rocket has no reverse
