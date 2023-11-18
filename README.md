@@ -1,10 +1,5 @@
 ### Hello there 👋
 
-I'm back end developer and master's student at Federal University of Pará, in computer science with a focus on Software Engineering, researcher at the software engineering laboratory SPIDER where I develop lines of research related to the development of software that help the day-to-day of companies. In addition, I have a strong interest in: software engineering, software architecture, agile methods, design patterns and quality assurance, applying these concepts to Back End development.
-
-- 🔭 I’m currently working on search about game design and game design document, looking to improve this process of documentation and propourse a model to helps the pré-production team of game design. Current, I'm working too in my transition for the job market, looking to aply the knowledges learned in graduation in computer science and Master Deagree in Software Engineering to improve my develpment as Software Engenier and Developer;
-- 🌱 I’m currently learning about Back End, software Architeture, design patterns, quality assurance;
-- :rocket: I’m looking to develop projects with Node.js and Back End' Tools;
+Master in computer science and passionate about technology.
+I work with back end development using Node.js since 2018. In my day I look for solutions using the theoretical and practical knowledge I learned during my academic and professional experience, in special applying software quality concepts and software architecture to seek testable and high-impact solutions for the project.
 - 📫 How to reach me: www.linkedin.com/in/iancampos244824192
-
-:rocket: Rocket has no reverse
